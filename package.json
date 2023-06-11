@@ -1,0 +1,20 @@
+{
+  "name": "bard-discord-bot",
+  "version": "0.1.1",
+  "description": "BardAI Discord Bot Open Source ",
+  "main": "index.js",
+  "repository": "https://github.com/Herta-Chan/BardDiscord.git",
+  "author": "_ItzDenki#1111",
+  "license": "MIT",
+  "scripts": {
+    "start": "node .",
+    "start:pm2": "pm2 start index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.1.4",
+    "fs": "^0.0.1-security",
+    "googlebard": "^1.0.6",
+    "pm2": "^5.3.0"
+  }
+}
