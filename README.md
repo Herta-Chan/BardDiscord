@@ -31,9 +31,10 @@ PREFIX=your_bot_prefix
 COOKIE=your_cookie
 ```
 
-- `TOKEN` is your Discord bot token. You can get it from [here](https://discord.com/developers/applications).
-- `PREFIX` is the prefix you want to use for your bot.
-- `COOKIE` is the cookie you get from [this](https://bard.google.com/) link.
++ `TOKEN` is your Discord bot token. You can get it from [here](https://discord.com/developers/applications).
++ `PREFIX` is the prefix you want to use for your bot.
++ `COOKIE` is the cookie you get from [this](https://bard.google.com/) link. 
+- Next, press F12 or Ctrl + Shift + I, go to the `Application > Cookie > __Secure-1PSID` to get the cookie
 
 4. Run the bot
 
