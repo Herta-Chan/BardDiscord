@@ -47,6 +47,15 @@ or using Yarn:
 ```bash
 yarn start
 ```
+### 🔧 PM2 Setup
+```bash
+npm i pm2 (For NPM)
+yarn add pm2 (For YARN)
+```
+```bash
+npm run start:pm2 (For NPM)
+yarn start:pm2 (For YARN)
+```
 
 ### 📝 License
 
